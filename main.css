@@ -47,13 +47,20 @@ body {
 .container {
   margin-inline: auto;
   width: calc(min(90%, 1440px));
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .card {
   position: relative;
   max-width: 69.375rem;
   min-height: 27.8125rem;
-  margin: 5.6em auto;
+  margin: 0 auto;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
