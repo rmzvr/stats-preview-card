@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/html-sass-flexbox-css-variables--P-39tNmT)
-- Live Site URL: [Github Pages](https://rzvr.github.io/stats-preview-card/)
+- Live Site URL: [Github Pages](https://rmzvr.github.io/stats-preview-card/)
 
 ## My process
 
@@ -58,5 +58,7 @@ In this challenge, after a long pause, I practice creating sites, remembering th
 
 ## Author
 
-- Github - [rzvr](https://github.com/rzvr)
-- Frontend Mentor - [@rzvr](https://www.frontendmentor.io/profile/rzvr)
+- [Github](https://github.com/rmzvr)
+- [LinkedIn](https://www.linkedin.com/in/rmzvr)
+- [Codewars](https://www.codewars.com/users/rmzvr)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/rmzvr)
